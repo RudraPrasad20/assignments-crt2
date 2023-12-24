@@ -76,7 +76,7 @@
 //     }
 //   }
 //   subtract(num){
-//     if(typeof num === "number"){
+//     if(typeof num === "number"){ 
 //       this.result -= num;
 //     }else{
 //       throw new Error("enter a valid number");
