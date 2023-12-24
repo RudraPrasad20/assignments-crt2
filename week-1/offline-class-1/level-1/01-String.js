@@ -33,7 +33,7 @@ function getSlice(str, start, end) {
 }
 getSlice("Hello World", 0, 5);
 
-// substring
+// substring 
 function getSubstring(str, start, end) {
   console.log("Original String:", str);
   console.log("After substring:", str.substring(start, end));
